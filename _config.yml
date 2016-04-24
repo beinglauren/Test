@@ -4,8 +4,8 @@ permalink:           pretty
 # Setup
 title:               Lauren Jennings
 tagline:             Designer at Et Eais
-url:                 
-baseurl:             http://beinglauren.github.io
+url:
+baseurl:             http://beinglauren.github.io/beinglauren
 
 # Assets
 #
@@ -18,7 +18,7 @@ sass:
 author:
   name:              Lauren Jennings
   url:               https://instagram.com/beinglauren
-  email:             zdsnider@gmail.com
+  email:             jennings.lauren07@gmail.com
 
 # Custom vars
 version:             2.0.0
